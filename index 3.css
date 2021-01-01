@@ -1,0 +1,31 @@
+h1{
+font-size:245%;
+background:orange ;
+text-align:center;
+}
+body{
+				text-align:context;
+				font-family:helvetica;
+}
+img{
+				max-width:90%;
+				display:block;
+				margin:auto;
+				border-radius:6%;
+				box-show:5px 5px 7px gray;
+}
+a:link{
+				color:black;
+				text-decaration:none;
+				
+}
+a:hover{
+				color:#00264d;
+				
+}
+a:visited{
+				color:#333333;
+}
+a:active{
+				color:#262626;
+}
